@@ -4,9 +4,11 @@ html, body {
   margin: 0;
   font-family: Arial, sans-serif;
   background-color: #f4f4f4;
-  flex: 1;
 }
-
+main{
+  flex: 1;
+  padding: 5rem;
+}
 body {
   display: flex;
   flex-direction: column;
