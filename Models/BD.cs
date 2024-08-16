@@ -4,7 +4,9 @@ using System.Collections.Generic;
 
 public class BD
 {
-    private readonly string _connectionString;
+    private static string _connectionString = @"Server=186.19.182.109\SQLEXPRESS,1433;Database=JJOO;User Id=sa;Password=barpetalon10";
+
+    //public static string _connectionString = @"Server=localhost;Database=JJOO;Trusted_Connection=True;";
 
     public BD(string connectionString)
     {

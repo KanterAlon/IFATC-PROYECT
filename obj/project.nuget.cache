@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XimISIffqnUqmihhWs2tH1eQ65Q4PaAcAr6pPjjK2av7utFai5XY/miMMNkXPwGM9xTDr6L4kVXl0AT8L5mnKQ==",
+  "dgSpecHash": "S5pd6Jc74YE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\95320323\\Downloads\\IFATC-PROYECT\\IFATC-PROYECT.csproj",
+  "projectFilePath": "C:\\Users\\95320323\\Downloads\\IFATC Folder\\IFATC-PROYECT\\IFATC-PROYECT.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\95320323\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\95320323\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
